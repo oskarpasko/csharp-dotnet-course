@@ -1,0 +1,14 @@
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll

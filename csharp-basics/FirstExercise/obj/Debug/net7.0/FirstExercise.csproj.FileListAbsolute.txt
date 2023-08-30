@@ -1,0 +1,14 @@
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/FirstExercise/obj/Debug/net7.0/FirstExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/FirstExercise/obj/Debug/net7.0/FirstExercise.AssemblyInfoInputs.cache
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/FirstExercise/obj/Debug/net7.0/FirstExercise.AssemblyInfo.cs
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/FirstExercise/obj/Debug/net7.0/FirstExercise.csproj.CoreCompileInputs.cache
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/FirstExercise/bin/Debug/net7.0/FirstExercise
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/FirstExercise/bin/Debug/net7.0/FirstExercise.deps.json
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/FirstExercise/bin/Debug/net7.0/FirstExercise.runtimeconfig.json
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/FirstExercise/bin/Debug/net7.0/FirstExercise.dll
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/FirstExercise/bin/Debug/net7.0/FirstExercise.pdb
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/FirstExercise/obj/Debug/net7.0/FirstExercise.dll
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/FirstExercise/obj/Debug/net7.0/refint/FirstExercise.dll
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/FirstExercise/obj/Debug/net7.0/FirstExercise.pdb
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/FirstExercise/obj/Debug/net7.0/FirstExercise.genruntimeconfig.cache
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/FirstExercise/obj/Debug/net7.0/ref/FirstExercise.dll
