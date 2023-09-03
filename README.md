@@ -3,7 +3,10 @@ Course of C# and .NET from udemy.
 
 ## C#
 ### Basics
-### Methods
+- Quadratic function
+- Fibo on arrays
+- Factorial on recursive function
 ### Classes
+- some pokemon battles?
 ### Files
 ### Exceptions
