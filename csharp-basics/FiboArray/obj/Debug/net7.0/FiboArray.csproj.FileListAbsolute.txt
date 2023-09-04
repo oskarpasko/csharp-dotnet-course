@@ -1,0 +1,14 @@
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/FiboArray/bin/Debug/net7.0/FiboArray
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/FiboArray/bin/Debug/net7.0/FiboArray.deps.json
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/FiboArray/bin/Debug/net7.0/FiboArray.runtimeconfig.json
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/FiboArray/bin/Debug/net7.0/FiboArray.dll
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/FiboArray/bin/Debug/net7.0/FiboArray.pdb
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/FiboArray/obj/Debug/net7.0/FiboArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/FiboArray/obj/Debug/net7.0/FiboArray.AssemblyInfoInputs.cache
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/FiboArray/obj/Debug/net7.0/FiboArray.AssemblyInfo.cs
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/FiboArray/obj/Debug/net7.0/FiboArray.csproj.CoreCompileInputs.cache
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/FiboArray/obj/Debug/net7.0/FiboArray.dll
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/FiboArray/obj/Debug/net7.0/refint/FiboArray.dll
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/FiboArray/obj/Debug/net7.0/FiboArray.pdb
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/FiboArray/obj/Debug/net7.0/FiboArray.genruntimeconfig.cache
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/FiboArray/obj/Debug/net7.0/ref/FiboArray.dll
