@@ -36,8 +36,10 @@ namespace QuadFunc
                 Environment.Exit(0);
             }
 
+            // x2
             double x2 = ((b*(-1)) + Math.Sqrt(delta))/(2 * a);
 
+            // solution if delta > 0
             Console.WriteLine("There are two solutions.");
             Console.WriteLine("x1 = " + x1);
             Console.WriteLine("x2 = " + x2);
