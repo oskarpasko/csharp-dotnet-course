@@ -1,0 +1,14 @@
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/QuadFunc/bin/Debug/net7.0/QuadFunc
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/QuadFunc/bin/Debug/net7.0/QuadFunc.deps.json
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/QuadFunc/bin/Debug/net7.0/QuadFunc.runtimeconfig.json
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/QuadFunc/bin/Debug/net7.0/QuadFunc.dll
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/QuadFunc/bin/Debug/net7.0/QuadFunc.pdb
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/QuadFunc/obj/Debug/net7.0/QuadFunc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/QuadFunc/obj/Debug/net7.0/QuadFunc.AssemblyInfoInputs.cache
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/QuadFunc/obj/Debug/net7.0/QuadFunc.AssemblyInfo.cs
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/QuadFunc/obj/Debug/net7.0/QuadFunc.csproj.CoreCompileInputs.cache
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/QuadFunc/obj/Debug/net7.0/QuadFunc.dll
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/QuadFunc/obj/Debug/net7.0/refint/QuadFunc.dll
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/QuadFunc/obj/Debug/net7.0/QuadFunc.pdb
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/QuadFunc/obj/Debug/net7.0/QuadFunc.genruntimeconfig.cache
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/QuadFunc/obj/Debug/net7.0/ref/QuadFunc.dll

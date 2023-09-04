@@ -1,0 +1,14 @@
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/Factorial/obj/Debug/net7.0/Factorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/Factorial/obj/Debug/net7.0/Factorial.AssemblyInfoInputs.cache
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/Factorial/obj/Debug/net7.0/Factorial.AssemblyInfo.cs
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/Factorial/obj/Debug/net7.0/Factorial.csproj.CoreCompileInputs.cache
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/Factorial/bin/Debug/net7.0/Factorial
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/Factorial/bin/Debug/net7.0/Factorial.deps.json
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/Factorial/bin/Debug/net7.0/Factorial.runtimeconfig.json
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/Factorial/bin/Debug/net7.0/Factorial.dll
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/Factorial/bin/Debug/net7.0/Factorial.pdb
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/Factorial/obj/Debug/net7.0/Factorial.dll
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/Factorial/obj/Debug/net7.0/refint/Factorial.dll
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/Factorial/obj/Debug/net7.0/Factorial.pdb
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/Factorial/obj/Debug/net7.0/Factorial.genruntimeconfig.cache
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-basics/Factorial/obj/Debug/net7.0/ref/Factorial.dll
