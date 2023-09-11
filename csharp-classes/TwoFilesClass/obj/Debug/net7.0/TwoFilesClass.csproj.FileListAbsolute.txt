@@ -1,0 +1,14 @@
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-classes/TwoFilesClass/bin/Debug/net7.0/TwoFilesClass
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-classes/TwoFilesClass/bin/Debug/net7.0/TwoFilesClass.deps.json
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-classes/TwoFilesClass/bin/Debug/net7.0/TwoFilesClass.runtimeconfig.json
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-classes/TwoFilesClass/bin/Debug/net7.0/TwoFilesClass.dll
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-classes/TwoFilesClass/bin/Debug/net7.0/TwoFilesClass.pdb
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-classes/TwoFilesClass/obj/Debug/net7.0/TwoFilesClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-classes/TwoFilesClass/obj/Debug/net7.0/TwoFilesClass.AssemblyInfoInputs.cache
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-classes/TwoFilesClass/obj/Debug/net7.0/TwoFilesClass.AssemblyInfo.cs
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-classes/TwoFilesClass/obj/Debug/net7.0/TwoFilesClass.csproj.CoreCompileInputs.cache
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-classes/TwoFilesClass/obj/Debug/net7.0/TwoFilesClass.dll
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-classes/TwoFilesClass/obj/Debug/net7.0/refint/TwoFilesClass.dll
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-classes/TwoFilesClass/obj/Debug/net7.0/TwoFilesClass.pdb
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-classes/TwoFilesClass/obj/Debug/net7.0/TwoFilesClass.genruntimeconfig.cache
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-classes/TwoFilesClass/obj/Debug/net7.0/ref/TwoFilesClass.dll
