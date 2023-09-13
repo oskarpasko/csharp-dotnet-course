@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Client
 {
@@ -9,7 +13,8 @@ namespace Client
         public void get_number()
         {
             // podanie liczbę do przekonwertowania
-                Console.WriteLine("Podaj liczbę do przekonwertowania");
+                Console.ForegroundColor = ConsoleColor.Blue;
+                Console.WriteLine("Podaj liczbę do przekonwertowania", Console.ForegroundColor);
                 this.number = Convert.ToDouble(Console.ReadLine());
         }
 
