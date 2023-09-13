@@ -1,0 +1,14 @@
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-unit-converter/UnitConverterClassTests/obj/Debug/net7.0/UnitConverterClassTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-unit-converter/UnitConverterClassTests/obj/Debug/net7.0/UnitConverterClassTests.AssemblyInfoInputs.cache
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-unit-converter/UnitConverterClassTests/obj/Debug/net7.0/UnitConverterClassTests.AssemblyInfo.cs
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-unit-converter/UnitConverterClassTests/obj/Debug/net7.0/UnitConverterClassTests.csproj.CoreCompileInputs.cache
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-unit-converter/UnitConverterClassTests/bin/Debug/net7.0/UnitConverterClassTests
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-unit-converter/UnitConverterClassTests/bin/Debug/net7.0/UnitConverterClassTests.deps.json
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-unit-converter/UnitConverterClassTests/bin/Debug/net7.0/UnitConverterClassTests.runtimeconfig.json
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-unit-converter/UnitConverterClassTests/bin/Debug/net7.0/UnitConverterClassTests.dll
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-unit-converter/UnitConverterClassTests/bin/Debug/net7.0/UnitConverterClassTests.pdb
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-unit-converter/UnitConverterClassTests/obj/Debug/net7.0/UnitConverterClassTests.dll
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-unit-converter/UnitConverterClassTests/obj/Debug/net7.0/refint/UnitConverterClassTests.dll
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-unit-converter/UnitConverterClassTests/obj/Debug/net7.0/UnitConverterClassTests.pdb
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-unit-converter/UnitConverterClassTests/obj/Debug/net7.0/UnitConverterClassTests.genruntimeconfig.cache
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-unit-converter/UnitConverterClassTests/obj/Debug/net7.0/ref/UnitConverterClassTests.dll
