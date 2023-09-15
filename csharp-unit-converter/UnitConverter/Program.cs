@@ -45,6 +45,8 @@ namespace UnitConverter
                     time.mechanism();
                     break;
                 case 4:
+                    Console.ForegroundColor = ConsoleColor.Yellow;
+                    Console.WriteLine("Bye, have a great time!");
                     Environment.Exit(0);
                     break;
                 default:
