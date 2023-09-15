@@ -12,16 +12,16 @@ namespace UnitConverter
 
         public override void get_number()
         {
-            // podanie liczbę do przekonwertowania
+            // enter a value to convert
                 Console.ForegroundColor = ConsoleColor.Blue;
-                Console.WriteLine("\nPodaj liczbę do przekonwertowania", Console.ForegroundColor);
+                Console.WriteLine("\nEnter a number to convert:", Console.ForegroundColor);
                 this.number = Convert.ToDouble(Console.ReadLine());
         }
 
         public override int get_unit()
         {
-            // podanie jednostki z której konwertujemy liczbę
-                Console.WriteLine("\nW jakiej jednostce podales wartosc?");
+            // enter a number's unit from what we will convert
+                Console.WriteLine("\nWhat unit did You enter the value?");
                 Console.WriteLine("1. mm");
                 Console.WriteLine("2. cm");
                 Console.WriteLine("3. dm");
@@ -35,7 +35,7 @@ namespace UnitConverter
         public override void write_result(double nr, double[] results, string[] resultsUnit)
         {
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("\nWyniki:", Console.ForegroundColor);
+            Console.WriteLine("\nResults:", Console.ForegroundColor);
             for(int i = 0; i<5 ; i++)
             {
                 Console.WriteLine($"\n{nr} mm = {results[i]} {resultsUnit[i]}");
@@ -44,53 +44,53 @@ namespace UnitConverter
 
         public override void mechanism()
         {
-            // utworzenie tablicy jednostek do wypisywania ichh w wyniku
+            // create an array with units to output them in results
             string[] unitName = {"mm", "cm", "dm", "m", "km"};
 
             double[] result;
                 
-            // mechanizm konwertowania
+            // convert mechanism
             switch(this.get_unit())
             {
-                case 1: // dla mm
-                    // utworzenie tablice wyników
+                case 1: // for mm
+                    // create an array with results
                     result = new double[] {(number), (number/10), 
                     (number/100), (number/1000), (number/10000000)};
                     
-                    // wypisanie wyników
+                    // output results
                     write_result(number, result, unitName);
                     break;
-                case 2: // dla cm
-                    // utworzenie tablice wyników
+                case 2: // for cm
+                    // create an array with results
                     result = new double[] {(number*10), (number), 
                     (number/10), (number/100), (number/1000000)};
                     
-                    // wypisanie wyników
+                    // output results
                     write_result(number, result, unitName);
                     break;
                 case 3:
-                    // utworzenie tablice wyników
+                    // create an array with results
                     result = new double[] {(number*100), (number*10), 
                     (number), (number/10), (number/10000)};
                     
-                    // wypisanie wyników
+                    // output results
                     write_result(number, result, unitName);
                     break;
-                case 4: // dla metrów
+                case 4: // for meter
 
-                    // utworzenie tablice wyników
+                    // create an array with results
                     result = new double[]{(number * 1000), (number * 100), 
                     (number * 10), number, (number / 1000)};
                     
-                    // wypisanie wyników
+                    // output results
                     write_result(number, result, unitName);
                     break;
-                case 5:
-                    // utworzenie tablice wyników
+                case 5: // for km
+                    // create an array with results
                     result = new double[] {(number*1000000), (number*100000), 
                     (number*10000), (number*1000), (number)};
                     
-                    // wypisanie wyników
+                    // output results
                     write_result(number, result, unitName);
                     break;
             }
