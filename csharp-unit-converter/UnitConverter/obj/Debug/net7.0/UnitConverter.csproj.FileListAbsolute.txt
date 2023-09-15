@@ -1,0 +1,14 @@
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-unit-converter/UnitConverter/bin/Debug/net7.0/UnitConverter
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-unit-converter/UnitConverter/bin/Debug/net7.0/UnitConverter.deps.json
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-unit-converter/UnitConverter/bin/Debug/net7.0/UnitConverter.runtimeconfig.json
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-unit-converter/UnitConverter/bin/Debug/net7.0/UnitConverter.dll
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-unit-converter/UnitConverter/bin/Debug/net7.0/UnitConverter.pdb
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-unit-converter/UnitConverter/obj/Debug/net7.0/UnitConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-unit-converter/UnitConverter/obj/Debug/net7.0/UnitConverter.AssemblyInfoInputs.cache
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-unit-converter/UnitConverter/obj/Debug/net7.0/UnitConverter.AssemblyInfo.cs
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-unit-converter/UnitConverter/obj/Debug/net7.0/UnitConverter.csproj.CoreCompileInputs.cache
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-unit-converter/UnitConverter/obj/Debug/net7.0/UnitConverter.dll
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-unit-converter/UnitConverter/obj/Debug/net7.0/refint/UnitConverter.dll
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-unit-converter/UnitConverter/obj/Debug/net7.0/UnitConverter.pdb
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-unit-converter/UnitConverter/obj/Debug/net7.0/UnitConverter.genruntimeconfig.cache
+/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/csharp-unit-converter/UnitConverter/obj/Debug/net7.0/ref/UnitConverter.dll
