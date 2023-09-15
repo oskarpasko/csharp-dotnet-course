@@ -31,13 +31,13 @@ namespace UnitConverter
                 return choice;
         }
 
-        public override void write_result(double v, double[] results, string[] resultsUnit)
+        public override void write_result(double v, double[] results, string[] resultsUnit, int start_unit)
         {
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("\nResults:", Console.ForegroundColor);
             for(int i = 0; i<4 ; i++)
             {
-                Console.WriteLine($"\n{v} mm = {results[i]} {resultsUnit[i]}");
+                Console.WriteLine($"\n{v} {resultsUnit[start_unit-1]} = {results[i]} {resultsUnit[i]}");
             }
         }
 
@@ -47,9 +47,11 @@ namespace UnitConverter
             string[] unitName = {"mg", "g", "kg", "t"};
 
             double[] result;
+
+            int unit_choice = this.get_unit();
                 
             // convert mechanism
-            switch(this.get_unit())
+            switch(unit_choice)
             {
                 case 1: // for mg
                     // create an array with results
@@ -57,7 +59,7 @@ namespace UnitConverter
                     (value/1000000), (value/1000000000)};
                     
                     // output results
-                    write_result(value, result, unitName);
+                    write_result(value, result, unitName, unit_choice);
                     break;
                 case 2: // for g
                     // create an array with results
@@ -65,7 +67,7 @@ namespace UnitConverter
                     (value/1000), (value/1000000)};
                     
                     // output results
-                    write_result(value, result, unitName);
+                    write_result(value, result, unitName, unit_choice);
                     break;
                 case 3: // for kg
                     // create an array with results
@@ -73,7 +75,7 @@ namespace UnitConverter
                     (value), (value/1000)};
                     
                     // output results
-                    write_result(value, result, unitName);
+                    write_result(value, result, unitName, unit_choice);
                     break;
                 case 4: // for tonne
 
@@ -82,7 +84,7 @@ namespace UnitConverter
                     (value * 1000), value};
                     
                     // output results
-                    write_result(value, result, unitName);
+                    write_result(value, result, unitName, unit_choice);
                     break;
             }
         }
