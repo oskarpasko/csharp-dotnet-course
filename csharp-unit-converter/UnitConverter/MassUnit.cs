@@ -86,6 +86,9 @@ namespace UnitConverter
                     // output results
                     write_result(value, result, unitName, unit_choice);
                     break;
+                default:
+                    Console.WriteLine("Wrong choice!");
+                    break;
             }
         }
     }
