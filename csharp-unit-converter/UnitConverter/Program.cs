@@ -39,6 +39,11 @@ namespace UnitConverter
                     mass.get_number();
                     mass.mechanism();
                     break;
+                case 3: 
+                    TimeUnit time = new TimeUnit();
+                    time.get_number();
+                    time.mechanism();
+                    break;
                 case 4:
                     Environment.Exit(0);
                     break;
