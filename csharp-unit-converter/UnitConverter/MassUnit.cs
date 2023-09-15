@@ -35,7 +35,7 @@ namespace UnitConverter
         {
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("\nResults:", Console.ForegroundColor);
-            for(int i = 0; i<4 ; i++)
+            for(int i = 0; i<results.Length ; i++)
             {
                 Console.WriteLine($"\n{v} {resultsUnit[start_unit-1]} = {results[i]} {resultsUnit[i]}");
             }

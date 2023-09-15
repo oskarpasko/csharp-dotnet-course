@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace UnitConverter
 {
-        public class LengthUnit : Unit
+        public class TimeUnit : Unit
     {
         private double value;
 
@@ -22,11 +22,10 @@ namespace UnitConverter
         {
             // enter a value's unit from what we will convert
                 Console.WriteLine("\nWhat unit did You enter the value?");
-                Console.WriteLine("1. millimeter (mm)");
-                Console.WriteLine("2. centimeter (cm)");
-                Console.WriteLine("3. decimeter (dm)");
-                Console.WriteLine("4. meter (m)");
-                Console.WriteLine("5. kilometer (km)");
+                Console.WriteLine("1. second (s)");
+                Console.WriteLine("2. minute (m)");
+                Console.WriteLine("3. hour (h)");
+                Console.WriteLine("4. day");
                 int choice = Convert.ToInt32(Console.ReadLine());
 
                 return choice;
@@ -45,7 +44,7 @@ namespace UnitConverter
         public override void mechanism()
         {
             // create an array with units to output them in results
-            string[] unitName = {"mm", "cm", "dm", "m", "km"};
+            string[] unitName = {"s", "m", "h", "day"};
 
             double[] result;
 
@@ -54,43 +53,35 @@ namespace UnitConverter
             // convert mechanism
             switch(unit_choice)
             {
-                case 1: // for mm
+                case 1: // for a second
                     // create an array with results
-                    result = new double[] {(value), (value/10), 
-                    (value/100), (value/1000), (value/10000000)};
+                    result = new double[] {(value), (value/60), 
+                    (value/3600), (value/86400)};
                     
                     // output results
                     write_result(value, result, unitName, unit_choice);
                     break;
-                case 2: // for cm
+                case 2: // for a minute
                     // create an array with results
-                    result = new double[] {(value*10), (value), 
-                    (value/10), (value/100), (value/1000000)};
+                    result = new double[] {(value*60), (value), 
+                    (value/60), (value/1440)};
                     
                     // output results
                     write_result(value, result, unitName, unit_choice);
                     break;
-                case 3:
+                case 3: // for an hour
                     // create an array with results
-                    result = new double[] {(value*100), (value*10), 
-                    (value), (value/10), (value/10000)};
+                    result = new double[] {(value*3600), (value*60), 
+                    (value), (value/24)};
                     
                     // output results
                     write_result(value, result, unitName, unit_choice);
                     break;
-                case 4: // for meter
+                case 4: // for a day
 
                     // create an array with results
-                    result = new double[]{(value * 1000), (value * 100), 
-                    (value * 10), value, (value / 1000)};
-                    
-                    // output results
-                    write_result(value, result, unitName, unit_choice);
-                    break;
-                case 5: // for km
-                    // create an array with results
-                    result = new double[] {(value*1000000), (value*100000), 
-                    (value*10000), (value*1000), (value)};
+                    result = new double[]{(value * 86400), (value * 1440), 
+                    (value * 24), value};
                     
                     // output results
                     write_result(value, result, unitName, unit_choice);
