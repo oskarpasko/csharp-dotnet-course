@@ -42,6 +42,9 @@ namespace UnitConverter
                 case 4:
                     Environment.Exit(0);
                     break;
+                default:
+                    Console.WriteLine("Wrong choice!");
+                    break;
             }
         }
         public static void Main(string[] args)
