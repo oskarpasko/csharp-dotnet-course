@@ -34,6 +34,11 @@ namespace UnitConverter
                     length.get_number();
                     length.mechanism();
                     break;
+                case 2:
+                    MassUnit mass = new MassUnit();
+                    mass.get_number();
+                    mass.mechanism();
+                    break;
                 case 4:
                     Environment.Exit(0);
                     break;
