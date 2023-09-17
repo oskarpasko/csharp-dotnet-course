@@ -31,17 +31,17 @@ namespace UnitConverter
             {
                 case 1:
                     LengthUnit length = new LengthUnit();
-                    length.get_number();
+                    length.get_value();
                     length.mechanism();
                     break;
                 case 2:
                     MassUnit mass = new MassUnit();
-                    mass.get_number();
+                    mass.get_value();
                     mass.mechanism();
                     break;
                 case 3: 
                     TimeUnit time = new TimeUnit();
-                    time.get_number();
+                    time.get_value();
                     time.mechanism();
                     break;
                 case 4:

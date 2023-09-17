@@ -10,7 +10,7 @@ namespace UnitConverter
     {
         private double value;
 
-        public override void get_number()
+        public override void get_value()
         {
             // enter a value to convert
                 Console.ForegroundColor = ConsoleColor.Blue;
@@ -31,13 +31,13 @@ namespace UnitConverter
                 return choice;
         }
 
-        public override void write_result(double v, double[] results, string[] resultsUnit, int start_unit)
+        public override void write_result(double v, double[] results, string[] resultsUnit, int startUnit)
         {
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("\nResults:", Console.ForegroundColor);
             for(int i = 0; i<results.Length ; i++)
             {
-                Console.WriteLine($"\n{v} {resultsUnit[start_unit-1]} = {results[i]} {resultsUnit[i]}");
+                Console.WriteLine($"\n{v} {resultsUnit[startUnit-1]} = {results[i]} {resultsUnit[i]}");
             }
         }
 

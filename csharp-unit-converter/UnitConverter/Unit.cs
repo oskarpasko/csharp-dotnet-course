@@ -22,4 +22,3 @@
         public abstract void mechanism();
     }
  }
-        
