@@ -27,7 +27,7 @@ namespace UnitConverter
 
             int choice = Convert.ToInt32(Console.ReadLine());
 
-            switch(choice)
+            switch (choice)
             {
                 case 1:
                     LengthUnit length = new LengthUnit();
@@ -39,7 +39,7 @@ namespace UnitConverter
                     mass.get_value();
                     mass.mechanism();
                     break;
-                case 3: 
+                case 3:
                     TimeUnit time = new TimeUnit();
                     time.get_value();
                     time.mechanism();
@@ -58,7 +58,7 @@ namespace UnitConverter
         {
             var app = new Application();
             app.welcome();
-            while(true)
+            while (true)
             {
                 app.menu();
             }
