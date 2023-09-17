@@ -8,14 +8,15 @@ namespace UnitConverter
 {
     public class TimeUnit : Unit
     {
-        private double value;
+        private double _value;
+        public double Value { get; set; }
 
         public override void get_value()
         {
             // enter a value to convert
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("\nEnter a value to convert:", Console.ForegroundColor);
-            this.value = Convert.ToDouble(Console.ReadLine());
+            Value = Convert.ToDouble(Console.ReadLine());
         }
 
         public override int get_unit()
@@ -55,36 +56,36 @@ namespace UnitConverter
             {
                 case 1: // for a second
                     // create an array with results
-                    result = new double[] {(value), (value/60),
-                    (value/3600), (value/86400)};
+                    result = new double[] {(Value), (Value/60),
+                    (Value/3600), (Value/86400)};
 
                     // output results
-                    write_result(value, result, unitName, unit_choice);
+                    write_result(Value, result, unitName, unit_choice);
                     break;
                 case 2: // for a minute
                     // create an array with results
-                    result = new double[] {(value*60), (value),
-                    (value/60), (value/1440)};
+                    result = new double[] {(Value*60), (Value),
+                    (Value/60), (Value/1440)};
 
                     // output results
-                    write_result(value, result, unitName, unit_choice);
+                    write_result(Value, result, unitName, unit_choice);
                     break;
                 case 3: // for an hour
                     // create an array with results
-                    result = new double[] {(value*3600), (value*60),
-                    (value), (value/24)};
+                    result = new double[] {(Value*3600), (Value*60),
+                    (Value), (Value/24)};
 
                     // output results
-                    write_result(value, result, unitName, unit_choice);
+                    write_result(Value, result, unitName, unit_choice);
                     break;
                 case 4: // for a day
 
                     // create an array with results
-                    result = new double[]{(value * 86400), (value * 1440),
-                    (value * 24), value};
+                    result = new double[]{(Value * 86400), (Value * 1440),
+                    (Value * 24), Value};
 
                     // output results
-                    write_result(value, result, unitName, unit_choice);
+                    write_result(Value, result, unitName, unit_choice);
                     break;
                 default:
                     Console.WriteLine("Wrong choice!");
