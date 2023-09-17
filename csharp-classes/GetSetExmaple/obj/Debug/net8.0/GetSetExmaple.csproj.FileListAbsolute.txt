@@ -1,0 +1,15 @@
+H:\GitHub\csharp-dotnet-course\csharp-classes\GetSetExmaple\obj\Debug\net8.0\GetSetExmaple.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\csharp-dotnet-course\csharp-classes\GetSetExmaple\obj\Debug\net8.0\GetSetExmaple.AssemblyInfoInputs.cache
+H:\GitHub\csharp-dotnet-course\csharp-classes\GetSetExmaple\obj\Debug\net8.0\GetSetExmaple.AssemblyInfo.cs
+H:\GitHub\csharp-dotnet-course\csharp-classes\GetSetExmaple\obj\Debug\net8.0\GetSetExmaple.csproj.CoreCompileInputs.cache
+H:\GitHub\csharp-dotnet-course\csharp-classes\GetSetExmaple\obj\Debug\net8.0\GetSetExmaple.sourcelink.json
+H:\GitHub\csharp-dotnet-course\csharp-classes\GetSetExmaple\bin\Debug\net8.0\GetSetExmaple.exe
+H:\GitHub\csharp-dotnet-course\csharp-classes\GetSetExmaple\bin\Debug\net8.0\GetSetExmaple.deps.json
+H:\GitHub\csharp-dotnet-course\csharp-classes\GetSetExmaple\bin\Debug\net8.0\GetSetExmaple.runtimeconfig.json
+H:\GitHub\csharp-dotnet-course\csharp-classes\GetSetExmaple\bin\Debug\net8.0\GetSetExmaple.dll
+H:\GitHub\csharp-dotnet-course\csharp-classes\GetSetExmaple\bin\Debug\net8.0\GetSetExmaple.pdb
+H:\GitHub\csharp-dotnet-course\csharp-classes\GetSetExmaple\obj\Debug\net8.0\GetSetExmaple.dll
+H:\GitHub\csharp-dotnet-course\csharp-classes\GetSetExmaple\obj\Debug\net8.0\refint\GetSetExmaple.dll
+H:\GitHub\csharp-dotnet-course\csharp-classes\GetSetExmaple\obj\Debug\net8.0\GetSetExmaple.pdb
+H:\GitHub\csharp-dotnet-course\csharp-classes\GetSetExmaple\obj\Debug\net8.0\GetSetExmaple.genruntimeconfig.cache
+H:\GitHub\csharp-dotnet-course\csharp-classes\GetSetExmaple\obj\Debug\net8.0\ref\GetSetExmaple.dll
