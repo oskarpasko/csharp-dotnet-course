@@ -8,14 +8,15 @@ namespace UnitConverter
 {
     public class LengthUnit : Unit
     {
-        private double value;
+        private double _value;
+        public double Value { get; set; }
 
         public override void get_value()
         {
             // enter a value to convert
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("\nEnter a value to convert:", Console.ForegroundColor);
-            this.value = Convert.ToDouble(Console.ReadLine());
+            Value = Convert.ToDouble(Console.ReadLine());
         }
 
         public override int get_unit()
@@ -56,44 +57,44 @@ namespace UnitConverter
             {
                 case 1: // for mm
                     // create an array with results
-                    result = new double[] {(value), (value/10),
-                    (value/100), (value/1000), (value/10000000)};
+                    result = new double[] {(Value), (Value/10),
+                    (Value/100), (Value/1000), (Value/10000000)};
 
                     // output results
-                    write_result(value, result, unitName, unit_choice);
+                    write_result(Value, result, unitName, unit_choice);
                     break;
                 case 2: // for cm
                     // create an array with results
-                    result = new double[] {(value*10), (value),
-                    (value/10), (value/100), (value/1000000)};
+                    result = new double[] {(Value*10), (Value),
+                    (Value/10), (Value/100), (Value/1000000)};
 
                     // output results
-                    write_result(value, result, unitName, unit_choice);
+                    write_result(Value, result, unitName, unit_choice);
                     break;
                 case 3:
                     // create an array with results
-                    result = new double[] {(value*100), (value*10),
-                    (value), (value/10), (value/10000)};
+                    result = new double[] {(Value*100), (Value*10),
+                    (Value), (Value/10), (Value/10000)};
 
                     // output results
-                    write_result(value, result, unitName, unit_choice);
+                    write_result(Value, result, unitName, unit_choice);
                     break;
                 case 4: // for meter
 
                     // create an array with results
-                    result = new double[]{(value * 1000), (value * 100),
-                    (value * 10), value, (value / 1000)};
+                    result = new double[]{(Value * 1000), (Value * 100),
+                    (Value * 10), Value, (Value / 1000)};
 
                     // output results
-                    write_result(value, result, unitName, unit_choice);
+                    write_result(Value, result, unitName, unit_choice);
                     break;
                 case 5: // for km
                     // create an array with results
-                    result = new double[] {(value*1000000), (value*100000),
-                    (value*10000), (value*1000), (value)};
+                    result = new double[] {(Value*1000000), (Value*100000),
+                    (Value*10000), (Value*1000), (Value)};
 
                     // output results
-                    write_result(value, result, unitName, unit_choice);
+                    write_result(Value, result, unitName, unit_choice);
                     break;
                 default:
                     Console.WriteLine("Wrong choice!");
