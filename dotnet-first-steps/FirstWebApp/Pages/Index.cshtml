@@ -1,0 +1,17 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "First Page";
+}
+
+@{ var greetings = "Hello World"; }
+
+<html>
+    <body>
+        <div class="text-center">
+            <h1>@greetings</h1>
+            <p>The time on the server is @DateTime.Now</p>
+        </div>
+
+    </body>
+</html>
