@@ -1,7 +1,12 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using HelloWorld.Data;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+builder.Services.AddDbContext<HelloWorldContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("HelloWorldContext") ?? throw new InvalidOperationException("Connection string 'HelloWorldContext' not found.")));
 
 var app = builder.Build();
 
