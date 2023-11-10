@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\csharp-dotnet-course\\dotnet-first-steps\\FirstWebApp\\FirstWebApp.csproj": {}
+    "D:\\csharp-dotnet-course\\bulkyBookWeb\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {}
   },
   "projects": {
-    "D:\\csharp-dotnet-course\\dotnet-first-steps\\FirstWebApp\\FirstWebApp.csproj": {
+    "D:\\csharp-dotnet-course\\bulkyBookWeb\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\csharp-dotnet-course\\dotnet-first-steps\\FirstWebApp\\FirstWebApp.csproj",
-        "projectName": "FirstWebApp",
-        "projectPath": "D:\\csharp-dotnet-course\\dotnet-first-steps\\FirstWebApp\\FirstWebApp.csproj",
+        "projectUniqueName": "D:\\csharp-dotnet-course\\bulkyBookWeb\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
+        "projectName": "BulkyBookWeb",
+        "projectPath": "D:\\csharp-dotnet-course\\bulkyBookWeb\\BulkyBook\\BulkyBookWeb\\BulkyBookWeb.csproj",
         "packagesPath": "C:\\Users\\oskar\\.nuget\\packages\\",
-        "outputPath": "D:\\csharp-dotnet-course\\dotnet-first-steps\\FirstWebApp\\obj\\",
+        "outputPath": "D:\\csharp-dotnet-course\\bulkyBookWeb\\BulkyBook\\BulkyBookWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
