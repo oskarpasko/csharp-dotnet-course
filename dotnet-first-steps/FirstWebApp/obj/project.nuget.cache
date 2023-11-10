@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bb6y+Z1838XqyPh7JbOp1PCxE+BVeYjsI3PZsnMUWiGQRMfJU5eo9WAN5JiECWACmGHEao2ORaOrkEj3pVbrgA==",
+  "dgSpecHash": "1V82cft0EdBIFAg4Uvx8Ea+OBoCXFBbV6ITLYdstXWGLNSreLzJNwNf6TG4Ow+BLWMFcBebDLNI7xkGOYNGsPQ==",
   "success": true,
-  "projectFilePath": "/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/dotnet-first-steps/FirstWebApp/FirstWebApp.csproj",
+  "projectFilePath": "D:\\csharp-dotnet-course\\dotnet-first-steps\\FirstWebApp\\FirstWebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
