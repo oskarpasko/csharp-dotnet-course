@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FirstWebApp
 build_property.RootNamespace = FirstWebApp
-build_property.ProjectDir = /Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/dotnet-first-steps/FirstWebApp/
+build_property.ProjectDir = D:\csharp-dotnet-course\dotnet-first-steps\FirstWebApp\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/dotnet-first-steps/FirstWebApp
+build_property.MSBuildProjectDirectory = D:\csharp-dotnet-course\dotnet-first-steps\FirstWebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/dotnet-first-steps/FirstWebApp/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+[D:/csharp-dotnet-course/dotnet-first-steps/FirstWebApp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/dotnet-first-steps/FirstWebApp/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+[D:/csharp-dotnet-course/dotnet-first-steps/FirstWebApp/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/dotnet-first-steps/FirstWebApp/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+[D:/csharp-dotnet-course/dotnet-first-steps/FirstWebApp/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/dotnet-first-steps/FirstWebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[D:/csharp-dotnet-course/dotnet-first-steps/FirstWebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/dotnet-first-steps/FirstWebApp/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[D:/csharp-dotnet-course/dotnet-first-steps/FirstWebApp/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/dotnet-first-steps/FirstWebApp/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+[D:/csharp-dotnet-course/dotnet-first-steps/FirstWebApp/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/oskarpasko/Documents/GitHub/csharp-dotnet-course/dotnet-first-steps/FirstWebApp/Pages/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-b6jxrek14g
+[D:/csharp-dotnet-course/dotnet-first-steps/FirstWebApp/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-cal7omd8db
