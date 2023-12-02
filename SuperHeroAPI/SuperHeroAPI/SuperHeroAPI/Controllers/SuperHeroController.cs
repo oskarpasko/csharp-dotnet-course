@@ -47,5 +47,33 @@ namespace SuperHeroAPI.Controllers
             superheroes.Add(hero);
             return Ok(superheroes);
         }
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> UpdateHero(int id, SuperHero request)
+        {
+
+            var hero = superheroes.Find(x => x.Id == id);
+            if (hero is null) return NotFound("Error XD !");
+
+            hero.Name = request.Name;
+            hero.FirstName = request.FirstName;
+            hero.LastName = request.LastName;
+            hero.Place = request.Place;
+
+
+            return Ok(superheroes);
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteHero(int id)
+        {
+
+            var hero = superheroes.Find(x => x.Id == id);
+            if (hero is null) return NotFound("Error XD !");
+            
+            superheroes.Remove(hero);
+
+            return Ok(superheroes);
+        }
     }
 }
